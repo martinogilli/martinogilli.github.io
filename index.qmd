@@ -4,8 +4,17 @@ title: "Home"
 
 ## Martino Gilli
 
+::: {.columns}
+::: {.column width="30%" style="padding-right: 24px;"}
+![](images/MGilli_photo_squared.jpg){fig-alt="Martino Gilli" style="border-radius: 12px; width: 100%;"}
+:::
+
+::: {.column width="70%"}
 PhD student in Economics (Bocconi University).
 
 - Research interests: Climate change economics, economic growth
 - Email: <martino.gilli@phd.unibocconi.it>
 - GitHub: https://github.com/martinogilli
+:::
+:::
+
