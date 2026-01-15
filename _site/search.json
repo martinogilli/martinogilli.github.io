@@ -14,6 +14,34 @@
     "text": "PhD student in Economics (Bocconi University).\n\nResearch interests: Climate change economics, economic growth\nEmail: martino.gilli@phd.unibocconi.it\nGitHub: https://github.com/martinogilli"
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: martino.gilli@phd.unibocconi.it"
+  },
+  {
+    "objectID": "contact.html#affiliations",
+    "href": "contact.html#affiliations",
+    "title": "Contact",
+    "section": "Affiliations",
+    "text": "Affiliations\n\nBocconi University — PhD in Economics\nRFF-CMCC European Institute on Economics and the Environment (EIEE) — Post-degree Researcher"
+  },
+  {
+    "objectID": "contact.html#profiles",
+    "href": "contact.html#profiles",
+    "title": "Contact",
+    "section": "Profiles",
+    "text": "Profiles\n\nGitHub: Link\nGoogle Scholar: Link\nORCID: Link\nX/Twitter: Link"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV (PDF)"
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -33,33 +61,5 @@
     "title": "Research",
     "section": "Working Papers",
     "text": "Working Papers\n\nClimate Damage Projections Beyond Temperature\nStatus: Working paper\n\n\n\n\n\n\nNoteAbstract\n\n\n\n\n\nThis paper studies the importance of variables beyond average temperature in determining the macroeconomic impacts of climate change. I assemble a novel dataset of climate variables aggregated at the country-year level from several sources, both for historical data and for projections under future global warming. I find that weather variables at the country-year level are weakly correlated with each other and thus have ample residual variation to estimate the marginal effect of each on per capita GDP. I find that wildfires and tropical cyclones have significant and negative long-run effects on per capita GDP. By 2100, damages from variables beyond temperature represent over 20% of total reduction in per capita GDP, relative to the no-warming counterfactual."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Email: martino.gilli@phd.unibocconi.it"
-  },
-  {
-    "objectID": "contact.html#affiliations",
-    "href": "contact.html#affiliations",
-    "title": "Contact",
-    "section": "Affiliations",
-    "text": "Affiliations\n\nBocconi University — PhD in Economics\nRFF-CMCC European Institute on Economics and the Environment (EIEE) — Post-degree Researcher"
-  },
-  {
-    "objectID": "contact.html#profiles",
-    "href": "contact.html#profiles",
-    "title": "Contact",
-    "section": "Profiles",
-    "text": "Profiles\n\nGitHub: https://github.com/martinogilli\nGoogle Scholar: [Link]https://scholar.google.com/citations?user=rTQRcX4AAAAJ&hl=en\nORCID: [Link]https://orcid.org/my-orcid?orcid=0000-0002-9497-7466\nX/Twitter: [Link]https://x.com/M_E_Gilli"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "Download CV (PDF)"
   }
 ]

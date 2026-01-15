@@ -11,7 +11,7 @@ Email: [martino.gilli@phd.unibocconi.it](mailto:martino.gilli@phd.unibocconi.it)
 
 ## Profiles
 
-- GitHub: https://github.com/martinogilli
-- Google Scholar: [Link]https://scholar.google.com/citations?user=rTQRcX4AAAAJ&hl=en
-- ORCID: [Link]https://orcid.org/my-orcid?orcid=0000-0002-9497-7466
-- X/Twitter: [Link]https://x.com/M_E_Gilli
+- GitHub: [Link](https://github.com/martinogilli)
+- Google Scholar: [Link](https://scholar.google.com/citations?user=rTQRcX4AAAAJ&hl=en)
+- ORCID: [Link](https://orcid.org/my-orcid?orcid=0000-0002-9497-7466)
+- X/Twitter: [Link](https://x.com/M_E_Gilli)
