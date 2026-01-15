@@ -1,0 +1,11 @@
+---
+title: "Home"
+---
+
+## Martino Gilli
+
+PhD student in Economics (Bocconi University).
+
+- Research interests: Climate change economics, economic growth
+- Email: <martino.gilli@phd.unibocconi.it>
+- GitHub: https://github.com/martinogilli

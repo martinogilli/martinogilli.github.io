@@ -1,0 +1,48 @@
+---
+title: "Research"
+---
+
+## Publications
+
+### A multi-model assessment of inequality and climate change <span class="coauthors">(with Emmerling, J., Andreoni, P., Charalampidis, I., Dasgupta, S., Dennig, F., Feindt, S., Fragkiadakis, D., Fragkos, P., Fujimori, S., and Grottera, C.)</span> 
+*Nature Climate Change*, 2024.  
+- [PDF](files/ncc_paper.pdf) 
+   
+::: {.callout-note collapse="true"}
+## Abstract
+Climate change and inequality are critical and interrelated issues. Despite
+growing empirical evidence on the distributional implications of climate
+policies and climate risks, mainstream model-based assessments are often
+silent on the interplay between climate change and economic inequality.
+Here we fill this gap through an ensemble of eight large-scale integrated
+assessment models that belong to different economic paradigms and
+feature income heterogeneity. We quantify the distributional implications
+of climate impacts and of the varying compensation schemes of climate
+policies compatible with the goals of the Paris Agreement. By 2100, climate
+impacts will increase inequality by 1.4points of the Gini index on average.
+Maintaining global mean temperature below 1.5°C reduces long-term
+inequality increase by two-thirds but increases it slightly in the short
+term. However, equal per-capita redistribution can offset the short-term
+effect, lowering the Gini index by almost two points. We quantify model
+uncertainty and find robust evidence that well-designed policies can help
+stabilize climate and promote economic inclusion.
+:::
+
+### Climate change impacts on the within-country income distributions <span class="coauthors">(with Calcaterra, M., Emmerling, J. and Granella, F.)</span>  
+*Journal of Environmental Economics and Management*, 2024.  
+- [PDF](files/jeem_paper.pdf) 
+   
+::: {.callout-note collapse="true"}
+## Abstract
+This paper investigates the relationship between climate change and income inequality, recognizing that the economic impacts of climate change are not uniform across different levels of income within and across countries. Using methods from the existing literature on climate and economic growth, we analyze the economic impact of rising temperatures by within-country income decile. Our findings suggest that climate change disproportionately affects the poorer segments of the population within countries, even after accounting for a country's ability to adapt to climate impacts, while richer households suffer lower damages. In the reference scenario without additional climate action (3.6°C warming), we estimate that climate impacts could lead to an increase in the Gini index by up to six percentage points, notably in Sub-Saharan Africa. We project impacts to 2100 through the RICE50+ model and estimate the income elasticity of impacts within countries. Our estimates indicate that climate change damages are regressive, with an income elasticity of damages of 0.6 under our preferred specification. On the other hand, climate benefits are approximately distribution-neutral or slightly progressive.
+:::
+
+## Working Papers
+
+### Climate Damage Projections Beyond Temperature
+Status: Working paper 
+
+::: {.callout-note collapse="true"}
+## Abstract
+This paper studies the importance of variables beyond average temperature in determining the macroeconomic impacts of climate change. I assemble a novel dataset of climate variables aggregated at the country-year level from several sources, both for historical data and for projections under future global warming. I find that weather variables at the country-year level are weakly correlated with each other and thus have ample residual variation to estimate the marginal effect of each on per capita GDP. I find that wildfires and tropical cyclones have significant and negative long-run effects on per capita GDP. By 2100, damages from variables beyond temperature represent over 20% of total reduction in per capita GDP, relative to the no-warming counterfactual.
+:::

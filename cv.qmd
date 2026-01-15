@@ -1,0 +1,7 @@
+---
+title: "CV"
+---
+
+- [Download CV (PDF)](files/Martino_Gilli_s_CV.pdf)
+
+<iframe src="files/Martino_Gilli_s_CV.pdf" width="100%" height="900px" style="border: 1px solid #ddd;"></iframe>

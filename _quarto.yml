@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Martino Gilli"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+      - href: teaching.qmd
+        text: Teaching
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/martinogilli
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    page-layout: full
+    css: styles.css
+
+execute:
+  freeze: auto
