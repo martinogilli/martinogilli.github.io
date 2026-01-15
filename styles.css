@@ -1,0 +1,5 @@
+/* Smaller, non-bold coauthor text in Research headings */
+.coauthors {
+  font-size: 0.8em;
+  font-weight: 400;
+}
