@@ -39,7 +39,7 @@ This paper investigates the relationship between climate change and income inequ
 
 ## Working Papers
 
-### Income shocks, adaptation, and temperature-related mortality: Evidence from the Mexican labor market
+### Income shocks, adaptation, and temperature-related mortality: Evidence from the Mexican labor market <span class="coauthors">(with Sarmiento L., Pavanello F. and Shayegh S.)</span>
 Status: Working paper 
 
 ::: {.callout-note collapse="true"}
